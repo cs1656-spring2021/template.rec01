@@ -1,16 +1,16 @@
 # Repository: template.rec01
 # Recitation #1: Python Tutorial
 
-> Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Fall 2020  
-> Instructors: [Alexandros Labrinidis](http://labrinidis.cs.pitt.edu) 
+> Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Spring 2021  
+> Instructors: [Alexandros Labrinidis](http://labrinidis.cs.pitt.edu), Xiaowei Jia  
 > Teaching Assistant: Evangelos Karageorgos
 >
 > Assignment: #1. Python Tutorial
-> Released: September 3, 2020  
-> **Due: September 8th, 2020**
+> Released: January 28, 2021  
+> **Due: February 1st, 2021**
 
 ### Description
-This is the **first lab** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Fall 2020 semester.
+This is the **first lab** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2021 semester.
 
 ### Goal
 The goal of this assignment is to familiarize you with the Python programming language.
@@ -67,19 +67,11 @@ We are going to use Gradescope to submit and grade your assignments.
 To submit your assignment:
 * login to Canvas for this class <https://cs1656.org>  
 * click on Gradescope from the menu on the left  
-* select "Assignment #0" from the list of active assignments in Gradescope
+* select "Recitation Lab #1" from the list of active assignments in Gradescope
 * follow the instructions to submit your assignment and have it automatically graded.
 
 ### What to submit
-For this test assignment you only need to submit `task.py` to "Assignment #0" and see if you get all 100 points. In case of an error or wrong result, you can modify the file and resubmit it as many times as you want until the deadline of **Tuesday, September 8, 11:59 pm**.
-
-### Late submissions
-For full points, we will consider the version submitted to Gradescope 
-* the day of the deadline **Tuesday, September 8, 11:59 pm**  
-* 24 hours later (for submissions that are one day late / -5 points), and  
-* 48 hours after the first deadline (for submissions that are two days late / -15 points).
-
-Our assumption is that everybody will submit on the first deadline. If you want us to consider a late submission, you need to email us at `cs1656-staff@cs.pitt.edu`
+For this test assignment you only need to submit `task.py` to "Recitation Lab #1" and see if you get all 100 points. In case of an error or wrong result, you can modify the file and resubmit it as many times as you want until the deadline of **Monday, February 1, 11:59 pm**.
 
 ### Important notes about grading
 It is absolutely imperative that your python program:  
