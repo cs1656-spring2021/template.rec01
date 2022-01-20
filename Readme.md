@@ -1,16 +1,16 @@
 # Repository: template.rec01
 # Recitation #1: Python Tutorial
 
-> Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Spring 2021  
+> Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Spring 2022  
 > Instructor: Xiaowei Jia  
 > Teaching Assistant: Evangelos Karageorgos
 >
 > Assignment: #1. Python Tutorial
-> Released: January 28, 2021  
-> **Due: February 1st, 2021**
+> Released: January 21, 2021  
+> **Due: Januray 25, 2021**
 
 ### Description
-This is the **first lab** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2021 semester.
+This is the **first lab** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2022 semester.
 
 ### Goal
 The goal of this assignment is to familiarize you with the Python programming language.
@@ -71,7 +71,7 @@ To submit your assignment:
 * follow the instructions to submit your assignment and have it automatically graded.
 
 ### What to submit
-For this test assignment you only need to submit `task.py` to "Recitation Lab #1" and see if you get all 100 points. In case of an error or wrong result, you can modify the file and resubmit it as many times as you want until the deadline of **Monday, February 1, 11:59 pm**.
+For this test assignment you only need to submit `task.py` to "Recitation Lab #1" and see if you get all 100 points. In case of an error or wrong result, you can modify the file and resubmit it as many times as you want until the deadline of **Tuesday, Jan 25, 11:59 pm**.
 
 ### Important notes about grading
 It is absolutely imperative that your python program:  
