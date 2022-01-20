@@ -7,7 +7,7 @@
 >
 > Assignment: #1. Python Tutorial
 > Released: January 21, 2021  
-> **Due: Januray 25, 2021**
+> **Due: Januray 25, 2022**
 
 ### Description
 This is the **first lab** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2022 semester.
